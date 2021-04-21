@@ -4,7 +4,7 @@ import TableCustomers from './components/TableCustomers';
 
 import React from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
@@ -15,6 +15,7 @@ function App() {
   return (
     <Router>
       <div>
+        <p className="firma">Designed by @DiegoKraenau</p>
         <Switch>
           <Route path="/" exact>
             <TableCustomers />
