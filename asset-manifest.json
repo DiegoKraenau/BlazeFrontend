@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BlazeFrontend/static/css/main.6f3a64b3.chunk.css",
+    "main.js": "/BlazeFrontend/static/js/main.23402824.chunk.js",
+    "main.js.map": "/BlazeFrontend/static/js/main.23402824.chunk.js.map",
+    "runtime-main.js": "/BlazeFrontend/static/js/runtime-main.d2da7f31.js",
+    "runtime-main.js.map": "/BlazeFrontend/static/js/runtime-main.d2da7f31.js.map",
+    "static/css/2.23b0bd01.chunk.css": "/BlazeFrontend/static/css/2.23b0bd01.chunk.css",
+    "static/js/2.5785f0b3.chunk.js": "/BlazeFrontend/static/js/2.5785f0b3.chunk.js",
+    "static/js/2.5785f0b3.chunk.js.map": "/BlazeFrontend/static/js/2.5785f0b3.chunk.js.map",
+    "static/js/3.e33fead9.chunk.js": "/BlazeFrontend/static/js/3.e33fead9.chunk.js",
+    "static/js/3.e33fead9.chunk.js.map": "/BlazeFrontend/static/js/3.e33fead9.chunk.js.map",
+    "index.html": "/BlazeFrontend/index.html",
+    "static/css/2.23b0bd01.chunk.css.map": "/BlazeFrontend/static/css/2.23b0bd01.chunk.css.map",
+    "static/css/main.6f3a64b3.chunk.css.map": "/BlazeFrontend/static/css/main.6f3a64b3.chunk.css.map",
+    "static/js/2.5785f0b3.chunk.js.LICENSE.txt": "/BlazeFrontend/static/js/2.5785f0b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2da7f31.js",
+    "static/css/2.23b0bd01.chunk.css",
+    "static/js/2.5785f0b3.chunk.js",
+    "static/css/main.6f3a64b3.chunk.css",
+    "static/js/main.23402824.chunk.js"
+  ]
+}
